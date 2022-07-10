@@ -1,3 +1,5 @@
 # Dev Environment Commit 
 
-## A repo to create a dev env in AWS and connecting it with VS Code
+## Create a dev env in AWS and connecting it with VS Code
+
+This is the working version of the code and feel free to pull from the repo before working
